@@ -19,7 +19,7 @@ Wireframing is a critical step that occurs early in the design lifecycle, immedi
 3.  **Identifies Usability Issues Early:** By focusing purely on the user journey and interaction, wireframing helps uncover potential navigation or usability problems **before** significant time and resources are spent on visual design and coding. Finding and fixing a problem in a wireframe is cheap; fixing it in code is expensive.
 4.  **Saves Time and Resources:** By resolving structural questions up front, wireframing minimizes the need for costly revisions later in the development cycle. It provides a solid foundation before moving on to time-consuming visual design and high-fidelity prototyping.
 
----
+
 
 ## Key Elements of Wireframes
 
@@ -31,3 +31,38 @@ A wireframe is built upon several core components that define the structure and 
 | **Navigation** | The system that allows users to move between different screens, pages, or views within the product. This includes primary menus, links, search bars, and breadcrumbs. | Determines the **user flow** and **discoverability** of content. An effective navigation system reduces friction and helps users achieve their goals quickly and efficiently. |
 | **Content Placement** | The organization and allocation of different types of content (text, images, videos) on the page. In a wireframe, this is represented by simple boxes or placeholder text. | Defines the **information architecture** and **priority** of content. It ensures the most critical content is prominent and that the reading path guides the user logically through the page. |
 | **Functionality** | The interactive components of the product, such as buttons, forms, dropdown menus, sliders, and interactive widgets. These elements dictate what the user can *do* on the page. | Dictates the **user interaction** and **task completion** process. It ensures all necessary interactive elements are present and positioned correctly to facilitate key actions (e.g., "Add to Cart," "Submit Form"). |
+
+## 🎨 Types of Wireframes
+
+Wireframes are categorized by their **fidelity**, which refers to the level of detail, visual design, and realism they contain. The two primary types are low-fidelity and high-fidelity, each serving a distinct purpose in the product development lifecycle.
+
+###  Low-Fidelity (Lo-Fi) Wireframes
+
+**Low-fidelity wireframes** are the most basic and abstract representations of a product. They focus exclusively on structure, content, and flow.
+
+* **Characteristics:**
+    * **Appearance:** Often sketched quickly by hand or created with simple digital tools using basic shapes (boxes, lines) and placeholder text.
+    * **Detail:** Minimal to no visual detail, color, typography, or realistic images.
+    * **Interactivity:** Usually static (not clickable).
+* **When to Use:**
+    * **Early-Stage Ideation:** Used in the initial brainstorming phase to quickly capture and communicate ideas.
+    * **Concept Testing:** Ideal for stakeholder review and internal discussions to validate core structure and navigation logic before committing to design details.
+    * **Focus:** Perfect for focusing on **information hierarchy** and **user flow**.
+    
+    
+
+### High-Fidelity (Hi-Fi) Wireframes
+
+**High-fidelity wireframes** are much more detailed and refined, approaching the look and feel of the final user interface, but without the final graphic design polish.
+
+* **Characteristics:**
+    * **Appearance:** Created with specialized tools (like Figma) and include precise sizing, real-life placeholder images, and defined typography choices.
+    * **Detail:** High level of detail, including detailed interactive elements, defined spacing, and sometimes realistic data representations.
+    * **Interactivity:** Often **interactive** and clickable, mimicking the experience of the final product (a prototype).
+* **When to Use:**
+    * **Mid-to-Late Stage Design:** Used when the core structure is validated and the team is ready to specify interface details.
+    * **Usability Testing:** Ideal for testing with real users to gather feedback on specific interactions, micro-copy, and detailed layout choices.
+    * **Focus:** Excellent for verifying detailed **usability** and **interactions**.
+
+    ##  What Type of Wireframe is This?
+    **High-fidelity wireframes** 
