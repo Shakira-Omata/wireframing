@@ -66,3 +66,24 @@ Wireframes are categorized by their **fidelity**, which refers to the level of d
 
     ##  What Type of Wireframe is This?
     **High-fidelity wireframes** 
+
+
+
+## Wireframing Tools
+
+While wireframes can be created with anything from a pencil and paper (for Lo-Fi) to complex design software, modern digital tools are essential for collaboration, iteration, and transitioning to high-fidelity prototypes.
+
+Popular tools in the industry include Sketch, Adobe XD, Balsamiq, and Axure. However, **Figma** stands out as the industry standard for modern, collaborative UI/UX design.
+
+### Focus on Figma
+
+**Figma** is a powerful, cloud-based design and prototyping tool that is highly recommended for wireframing due to its accessibility and robust feature set.
+
+| Feature | Description | Utility for Wireframing |
+| :--- | :--- | :--- |
+| **Cloud-Based & Collaboration** | Runs in a web browser, allowing multiple users (designers, developers, stakeholders) to view and edit the same file simultaneously in real-time. | Facilitates **instant feedback** and ensures everyone is working from the single, most up-to-date source of truth, improving communication. |
+| **Prototyping Capabilities** | Allows designers to link screens and create interactive flows using simple connections (e.g., "On Click," "Navigate To"). | Enables the creation of **clickable Hi-Fi wireframes** that accurately simulate the user experience, making usability testing more effective. |
+| **Vector-Based Design** | Uses vectors, meaning designs are infinitely scalable without loss of quality. | Ensures precise, clean lines and layouts, making the transition from a structured wireframe to a detailed design seamless and reducing friction in handoff to development. |
+| **Component Libraries** | Designers can create reusable elements (buttons, navigation bars, input fields) that can be edited globally. | Speeds up the wireframing process significantly and ensures **design consistency** across all screens, which is vital for complex projects. |
+
+By leveraging Figma, the process of moving **From Wireframe to Prototype** becomes a streamlined, efficient, and collaborative journey.
